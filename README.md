@@ -38,6 +38,7 @@ This project is a simple website demonstrating a parallax effect using HTML, CSS
 
    ```bash
    git clone https://github.com/invtfl-bharti/adventure.git
+   cd adventure
    ```
 
 2. **Open `index.html`:**
@@ -49,3 +50,4 @@ This project is a simple website demonstrating a parallax effect using HTML, CSS
 - **3D Parallax Effect**: The website utilizes a 3D parallax effect with background and foreground images to create a visually appealing experience.
   Implement smooth scrolling to navigate between different sections of the website, providing a more seamless user experience.
   Add dynamic content or real data related to adventure activities. This could include images, videos, or more detailed descriptions for each adventure type.
+
